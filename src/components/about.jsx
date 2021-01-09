@@ -5,7 +5,9 @@ export default class About extends Component {
 	return (
 	    <div>
 		<div className="main" style={{backgroundImage:'url(images/WW187785.jpg)'}}>
-		    </div>
+		    <a href="https://www.w3schools.com/tags/tag_img.asp" target="_blank">
+		    <img src="images/WW187785.jpg" alt="This FUCKING sucks" /></a> 
+		</div>
 	    </div>
 
 	)
